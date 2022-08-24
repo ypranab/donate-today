@@ -67,6 +67,17 @@ section {
     box-shadow: 10px 10px 30px gray;
     border-radius: 3px;
     height: 350px;
+}
+
+#first-plan {
+    background-color: lavender;
+}
+
+#second-plan {
+    background-color: lightpink;
+}
+
+#third-plan {
     background-color: beige;
 }
 
